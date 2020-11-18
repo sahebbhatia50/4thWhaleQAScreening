@@ -16,15 +16,25 @@ Step 1:- Create new project & install Required Packages/plugins
 Step 2:- Create Folder Structure
 
 ProjectName
+
    |
+   
  drivers
+ 
    |
+   
  PageObjects
+ 
    |
+   
  prerequisitedata
+ 
    |
+   
  testscripts
+ 
    |
+   
  utilities
 
 Drivers:- Place we add the webbrowser driver(I used chromebrowser)
